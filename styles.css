@@ -28,6 +28,10 @@ header {
   margin-left: 1.2rem;
 }
 
+.nav__icons {
+  display: none;
+}
+
 .nav__list {
   display: flex;
   list-style: none;
